@@ -1,0 +1,11 @@
+# config
+.eslintrc.js
+prettierrc.js
+next.config.js
+
+# build dir
+build/
+bin/
+obj/
+out/
+.next/
