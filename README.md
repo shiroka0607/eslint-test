@@ -17,5 +17,3 @@
   - 関数の返り値の型を明記する
 - react/function-component-definition
   - 関数コンポーネントの宣言にアロー関数を使用する
- 
-  
